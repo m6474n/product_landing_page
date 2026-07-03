@@ -1,0 +1,6 @@
+{
+  "name": "HP ZBook Firefly G7 Landing Page",
+  "description": "An interactive, premium product landing page for the HP ZBook Firefly G7 featuring a scroll-controlled cinematic exploded engineering view animation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
