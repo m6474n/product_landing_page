@@ -5,6 +5,7 @@ An immersive, Apple-inspired product landing page built with **React.js**, **GSA
 ---
 
 ## Preview
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://zbook-firefly-g7.vercel.app/)
 
 A premium storytelling website demonstrating modern web animation techniques and interactive product presentation.
 
